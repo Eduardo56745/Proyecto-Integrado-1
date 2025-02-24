@@ -1,1 +1,4 @@
-# Proyecto-Integrado-1
+# Análisis de Ventas de Videojuegos
+El análisis de datos ha proporcionado una visión profunda sobre cómo las plataformas, géneros, reseñas y clasificaciones de los juegos influyen en las ventas y las preferencias de los usuarios en distintas regiones. A través de técnicas estadísticas y de visualización, se ha podido observar patrones claros que no solo ayudan a entender el comportamiento de los consumidores, sino que también pueden servir para tomar decisiones más informadas sobre el desarrollo, la comercialización y la distribución de videojuegos.
+
+Este proyecto destaca la importancia de contar con un análisis de datos sólido para comprender las dinámicas de mercado y cómo los diferentes factores afectan el rendimiento de los productos en la industria de los videojuegos. A medida que los datos continúan evolucionando, es crucial seguir aplicando técnicas de ciencia de datos para mantenerse al día con las tendencias y adaptarse rápidamente a los cambios en las preferencias de los consumidores.
